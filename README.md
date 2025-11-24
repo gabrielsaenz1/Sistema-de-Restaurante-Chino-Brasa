@@ -1,4 +1,4 @@
-# Sistema-de-Restaurante-Chino-Brasa
+```mermaid
 flowchart TD
     A[Inicio] --> B[Mostrar menú principal]
 
